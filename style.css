@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(253, 135, 0);
+    font-family: 'Fuzzy Bubbles',cursive;
+}
+.header_div{
+background:white;
+color: red;
+}
+.header_div p {
+    font-family:'Roboto Mono', monospace;
+    color: gray;
+    letter-spacing: 2px;
+    font-size:12;
+    font-weight:bold;
+}
+.main_div button{
+    font-family:'Roboto Mono', monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(4, 0, 65);
+    bottom: 0;
+    width: 100%;
+    font-size: 22px;
+    background-color: aqua;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+}
